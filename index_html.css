@@ -18,16 +18,17 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 .textstyle3 { font-size:13pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#FFFFFF;  }
 #container_78bff89b { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:150px; max-width:700px; background:none;  }
 #container_78bff89b_padding { margin: 30px; display: block;  }
-#img_5ed68884 { vertical-align: bottom; position:relative; display: inline-block; width:25%; background:none; height:auto;  }
-.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; line-height: 1.5;  }
-.textstyle5 { font-size:28pt; font-family:'Arial Black', Gadget, sans-serif; color:#808080; line-height: 1.5;  }
-.textstyle6 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#000000; line-height: 1.5;  }
-.textstyle7 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#303030; line-height: 1.5;  }
+#img_74c5dc35 { vertical-align: bottom; position:relative; display: inline-block; width:40%; min-width:200px; background:none; height:auto;  }
+.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#808080; line-height: 1.5;  }
+.textstyle5 { font-size:40pt; font-family:Arial, Helvetica, sans-serif; color:#808080; line-height: 1.5;  }
+.textstyle6 { font-size:22pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#808080; line-height: 1.5;  }
+.textstyle7 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#808080; line-height: 1.5;  }
 #button_7302d56d { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; margin:10px 0px 0px 10px; width:150px; height:40px; background-color:#3C97F2;  }
 .vcenterstyle1 { display: table; width: 100%; height: 100%; }
 .vcenterstyle2 { display: table-cell; vertical-align: middle; }
 .textstyle8 { font-size:12pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#FFFFFF;  }
 #button_52c2f018 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; margin:10px 0px 0px 10px; width:150px; height:40px; background-color:#3C97F2;  }
+#img_6fab104c { vertical-align: bottom; position:relative; display: inline-block; width:73%; background:none; height:auto;  }
 #container_365f079f { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:26px; background-color:#C0C0C0;  }
 #container_365f079f_padding { margin: 10px; display: block;  }
 .textstyle9 { text-align:right; }
